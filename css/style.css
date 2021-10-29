@@ -1,0 +1,37 @@
+/* reset */
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* TEST */
+.container{
+    background-color: burlywood;
+}
+.row{
+    background-color: aquamarine;
+    text-align: center;
+}
+/* END TEST */
+
+.box{
+    min-height: 50px;
+    padding: 10px;
+    background-color:#006cfa;
+    border: 1px solid white;
+    color:white;
+    font-size: 15px;
+}
+.nested{
+    min-height: 50px;
+    padding: 10px;
+    background-color:greenyellow;
+    border: 1px solid white;
+    color:white;
+    font-size: 15px;
+}
+
+.wrapper{
+    width: 100%;
+}
