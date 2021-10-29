@@ -7,7 +7,7 @@
 
 /* TEST */
 .container{
-    background-color: burlywood;
+    padding: 10px 0;
 }
 .row{
     background-color: aquamarine;
